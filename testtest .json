@@ -16,7 +16,7 @@ FIELDS
 {"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$numeric","$integer","$hidden","$system"],"qSrcTables":[]}
 {"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":83,"qTags":["$numeric","$integer","$hidden","$system"],"qSrcTables":[]}
 {"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$ascii","$text","$hidden","$system"],"qSrcTables":[]}
-{"qName":"MANDT","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["T001_T001"]}
+{"qName":"Dt","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["T001_T001"]}
 {"qName":"BUKRS","qCardinal":175,"qTags":["$ascii","$text"],"qSrcTables":["T001_T001"]}
 {"qName":"BUTXT","qCardinal":168,"qTags":["$text"],"qSrcTables":["T001_T001"]}
 {"qName":"ORT01","qCardinal":126,"qTags":["$text"],"qSrcTables":["T001_T001"]}
